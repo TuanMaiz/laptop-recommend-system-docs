@@ -22,5 +22,39 @@ Implementing  an  Ontology-Based  Recommend  system  involves  developing  an  o
 \begin{flushleft}
 	\textbf{Collaborative Filtering}
 \end{flushleft}
-Recommend system provides personalize recommendations to users base on their interest. One of most popular type of such system is Collaborative Filtering (CF), operating the prediction based on the known user ratings of items ~\parencite{zhang2014}.
+Recommend system provides personalize recommendations to users base on their interest. One of most popular type of such system is Collaborative Filtering (CF), operating the prediction based on the known user ratings of items ~\parencite{zhang2014}. Collaborative filtering techniques generate recommendations by analyzing user behavior patterns, without relying on external information about items or users ~\parencite{Koren2022}.
+
+In collaborative filtering, user similarity is commonly assessed through advanced measures such as cosine similarity and Pearson correlation, which enable detailed analysis of shared preferences. Conversely, item-based collaborative filtering identifies items with attributes resembling those that a user has previously valued or interacted with. In this approach, similarity between items is computed from user interaction patterns, thereby enhancing the depth of preference modeling and supporting the generation of more relevant recommendations.
+
+Although this approach is strong for most case, some users may find it difficult to get their satisfied recommendations due to their unique desire. Furthermore, the cold-start problem presents a significant challenge, as new users or items lack sufficient historical data to generate accurate recommendations. Therefore, it is essential to combine multiples techniques to accomplish decent accuracy and effectiveness for recommend system.
+
+\begin{flushleft}
+	\textbf{Conversational Recommend System}
+\end{flushleft}
+A conversational recommend system(CRS) is an interactive software designed to help users navigate effectively through the items and make recommendations by identifying their needs through feedback mechanisms~\parencite{inproceedings}. At present, CRS can be classified into two categories: those that emphasize an item’s technical specifications and those that prioritize its functionality~\parencite{ayundhita2019}.
+
+Technical specification approach focus on characteristics of items, such as weight, color, material. While functionality approach operating on the benefits, or functions of items. Both are required to interact with users to gain theirs feedback to provide accurate and effective recommendations.
+
+\begin{flushleft}
+	\textbf{Ontology design}
+\end{flushleft}
+Below is our proposed ontology-design based on RDF/OWL standard and ontology building using Protégé software. In ontology-building, four main components are involved: classes, property objects, data properties, and individuals. 
+
+
+\begin{flushleft}
+	\textbf{User Preference Modelling}
+\end{flushleft}
+User preference modeling plays a critical role in recommender systems~\parencite{ayundhita2019}. Its primary aim is to formulate appropriate questions and construct user profiles from the feedback provided. Through various data processing techniques, researchers are able to capture and analyze user preferences more precisely, thereby facilitating a deeper understanding of user needs. Commonly discussed cases include the following:
+
+\begin{enumerate}[label=\alph*)]
+	\item \textbf{Empty User.} This case arises when no user profile has been established and there is no available information regarding the user’s preferences or needs. The recommended strategy is to initiate the interaction by posing preliminary questions and gradually constructing the user profile~\parencite{ayundhita2019}.  
+	
+	\item \textbf{Abundance of Product Choices.} This situation occurs when users are presented with a wide range of products, making the decision process more time-consuming. In such cases, users may opt for multiple recommendations. The suggested strategy involves asking questions that emphasize the distinguishing features of each product~\parencite{ayundhita2019}.  
+	
+	\item \textbf{Absence of Suitable Recommendations.} Here, users struggle to identify a product that meets their functional requirements. The proposed solution is to first elicit functional requirements at the current level and then revisit any unmet operational requirements from the previous level~\parencite{ayundhita2019}.  
+	
+	\item \textbf{Unmet Requirements.} This case highlights situations where the initial requirement definitions fail to produce appropriate recommendations. The strategy involves refining the inquiry by requesting more specific functional requirements at the next level~\parencite{ayundhita2019}.  
+	
+	\item \textbf{No Product Matches the User Profile.} In this scenario, the defined requirements are insufficient to generate relevant recommendations. The proposed approach is to revise the requirements and request more specific functional details at the next level~\parencite{ayundhita2019}.  
+\end{enumerate}
 
