@@ -1,15 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.14)  15 SEP 2025 01:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.15)  15 SEP 2025 16:52
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Study/Cao-hoc/ki-3/T6_CS2307.CH190-Cong-nghe-tri-thuc/seminar/report/main.tex
-(d:/Study/Cao-hoc/ki-3/T6_CS2307.CH190-Cong-nghe-tri-thuc/seminar/report/main.tex
+**./main.tex
+(main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
-(D:\software\mitek\tex/latex/base\article.cls
+(D:\Softwares\miktek\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(D:\software\mitek\tex/latex/base\size12.clo
+(D:\Softwares\miktek\tex/latex/base\size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count187
@@ -23,18 +22,23 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (D:\software\mitek\tex/latex/base\inputenc.sty
+)
+(D:\Softwares\miktek\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (D:\software\mitek\tex/latex/base\fontenc.sty
+)
+(D:\Softwares\miktek\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (D:\software\mitek\tex/latex/csquotes\csquotes.sty
+)
+(D:\Softwares\miktek\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
- (D:\software\mitek\tex/latex/etoolbox\etoolbox.sty
+
+(D:\Softwares\miktek\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count195
-) (D:\software\mitek\tex/latex/graphics\keyval.sty
+)
+(D:\Softwares\miktek\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
@@ -45,22 +49,29 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \csq@maxlvl=\count266
 \csq@tshold=\count267
 \csq@ltx@everypar=\toks20
- (D:\software\mitek\tex/latex/csquotes\csquotes.def
+
+(D:\Softwares\miktek\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (D:\software\mitek\tex/latex/csquotes\csquotes.cfg
+
+(D:\Softwares\miktek\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-)) (D:\software\mitek\tex/latex/tools\indentfirst.sty
+))
+(D:\Softwares\miktek\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-) (D:\software\mitek\tex/latex/setspace\setspace.sty
+)
+(D:\Softwares\miktek\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (D:\software\mitek\tex/latex/geometry\geometry.sty
+)
+(D:\Softwares\miktek\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (D:\software\mitek\tex/generic/iftex\ifvtex.sty
+
+(D:\Softwares\miktek\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (D:\software\mitek\tex/generic/iftex\iftex.sty
+
+(D:\Softwares\miktek\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count268
@@ -75,30 +86,42 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks21
- (D:\software\mitek\tex/latex/geometry\geometry.cfg)) (D:\software\mitek\tex/latex/biblatex\biblatex.sty
+
+(D:\Softwares\miktek\tex/latex/geometry\geometry.cfg))
+(D:\Softwares\miktek\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
- (D:\software\mitek\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (D:\software\mitek\tex/generic/infwarerr\infwarerr.sty
+
+(D:\Softwares\miktek\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\Softwares\miktek\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (D:\software\mitek\tex/generic/ltxcmds\ltxcmds.sty
+)
+(D:\Softwares\miktek\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (D:\software\mitek\tex/latex/kvoptions\kvoptions.sty
+)
+(D:\Softwares\miktek\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (D:\software\mitek\tex/latex/kvsetkeys\kvsetkeys.sty
+
+(D:\Softwares\miktek\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (D:\software\mitek\tex/latex/logreq\logreq.sty
+))
+(D:\Softwares\miktek\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count271
- (D:\software\mitek\tex/latex/logreq\logreq.def
+
+(D:\Softwares\miktek\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (D:\software\mitek\tex/latex/base\ifthen.sty
+))
+(D:\Softwares\miktek\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (D:\software\mitek\tex/latex/url\url.sty
+)
+(D:\Softwares\miktek\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -161,12 +184,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count317
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (D:\software\mitek\tex/latex/biblatex\blx-dm.def
+
+(D:\Softwares\miktek\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
- (D:\software\mitek\tex/latex/biblatex-apa\apa.dbx
+
+(D:\Softwares\miktek\tex/latex/biblatex-apa\apa.dbx
 File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -265,12 +290,14 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip71
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (D:\software\mitek\tex/latex/biblatex\blx-compat.def
+
+(D:\Softwares\miktek\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (D:\software\mitek\tex/latex/biblatex\biblatex.def
+
+(D:\Softwares\miktek\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \c@textcitecount=\count396
 \c@textcitetotal=\count397
@@ -288,26 +315,35 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
- (D:\software\mitek\tex/latex/biblatex-apa\apa.bbx
+
+(D:\Softwares\miktek\tex/latex/biblatex-apa\apa.bbx
 File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (D:\software\mitek\tex/latex/biblatex/bbx\standard.bbx
+
+(D:\Softwares\miktek\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count405
 \c@bbx:relatedtotal=\count406
 )
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
+ed, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
+efined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
+ined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
+ defined, overwriting.
 )
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
- (D:\software\mitek\tex/latex/biblatex-apa\apa.cbx
+
+(D:\Softwares\miktek\tex/latex/biblatex-apa\apa.cbx
 File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
-Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
 Package biblatex Info: Redefining '\fullcite'.
 Package biblatex Info: Redefining '\citeauthor'.
 Package biblatex Info: Redefining '\citeyear'.
@@ -326,14 +362,17 @@ Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (D:\software\mitek\tex/latex/biblatex\biblatex.cfg
+
+(D:\Softwares\miktek\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (D:\software\mitek\tex/latex/l3kernel\expl3.sty
+
+(D:\Softwares\miktek\tex/latex/l3kernel\expl3.sty
 Package: expl3 2024-01-04 L3 programming layer (loader) 
- (D:\software\mitek\tex/latex/l3backend\l3backend-pdftex.def
+
+(D:\Softwares\miktek\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count407
 \l__pdf_internal_box=\box51
@@ -342,7 +381,9 @@ Package biblatex Info: ... and expl3
 (biblatex)             2024-01-04 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (D:\software\mitek\tex/latex/biblatex\blx-case-expl3.sty (D:\software\mitek\tex/latex/l3packages/xparse\xparse.sty
+
+(D:\Softwares\miktek\tex/latex/biblatex\blx-case-expl3.sty
+(D:\Softwares\miktek\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2023-10-10 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
@@ -403,24 +444,28 @@ LaTeX Font Info:    ... okay on input line 17.
 
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
-(D:\software\mitek\tex/latex/biblatex-apa\english-apa.lbx
+(D:\Softwares\miktek\tex/latex/biblatex-apa\english-apa.lbx
 File: english-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (D:\software\mitek\tex/latex/biblatex/lbx\english.lbx
+
+(D:\Softwares\miktek\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
- (D:\software\mitek\tex/latex/biblatex-apa\american-apa.lbx
+
+(D:\Softwares\miktek\tex/latex/biblatex-apa\american-apa.lbx
 File: american-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
- (D:\software\mitek\tex/latex/biblatex/lbx\american.lbx
+
+(D:\Softwares\miktek\tex/latex/biblatex/lbx\american.lbx
 File: american.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (D:\software\mitek\tex/latex/biblatex/lbx\english.lbx
+
+(D:\Softwares\miktek\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 ))))
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -431,6 +476,13 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Zhang2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
@@ -449,36 +501,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Warning: Citation 'hao2024faster' on page 1 undefined on input line 2.
 
-) (related-work.tex [1
+) (related-work.tex
+! I can't write on file `main.pdf'.
+(Press Enter to retry, or Control-C to exit; default file extension is `.pdf')
+Please type another file name for output
+! Emergency stop.
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.12 
+     
+*** (job aborted, file error in nonstop mode)
 
-{C:/Users/Eddiez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 37.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 37.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 37.
- [2] (main.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
- ***********
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
+ 
 Here is how much of TeX's memory you used:
- 10734 strings out of 474486
- 205436 string characters out of 5756415
- 1931542 words of memory out of 5000000
- 32941 multiletter control sequences out of 15000+600000
- 568579 words of font info for 57 fonts, out of 8000000 for 9000
+ 10686 strings out of 474486
+ 204369 string characters out of 5755471
+ 1932542 words of memory out of 5000000
+ 32908 multiletter control sequences out of 15000+600000
+ 565457 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,81p,855b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
-Output written on main.pdf (2 pages, 85287 bytes).
-PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 66i,6n,81p,785b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,20 +1,23 @@
-This is BibTeX, Version 0.99d
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.[499] Biber.pm:419> INFO - Reading './main.bcf'
-[611] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[628] Biber.pm:4419> INFO - Processing section 0
-[638] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
-[672] bibtex.pm:1713> INFO - LaTeX decoding ...
-[761] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
-[830] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[831] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[831] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[831] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[842] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[842] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[842] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[842] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[846] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[849] bbl.pm:763> INFO - Output to main.bbl
-[849] Biber.pm:131> WARN - I didn't find a database entry for 'hao2024faster' (section 0)
-[849] Biber.pm:133> INFO - WARNINGS: 1
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[126] biber-MSWIN64:340> INFO - === 
+[169] Biber.pm:419> INFO - Reading 'main.bcf'
+[319] Biber.pm:979> INFO - Found 5 citekeys in bib section 0
+[341] Biber.pm:4419> INFO - Processing section 0
+[354] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
+[416] bibtex.pm:1713> INFO - LaTeX decoding ...
+[428] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
+[480] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[480] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[480] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[480] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[493] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[493] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[493] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[493] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[497] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[501] bbl.pm:763> INFO - Output to main.bbl
+[501] Biber.pm:131> WARN - Possible typo (case mismatch) between citation and datasource keys: 'Zhang2014' and 'zhang2014' in file 'refs.bib'
+[501] Biber.pm:131> WARN - I didn't find a database entry for 'hao2024faster' (section 0)
+[501] Biber.pm:131> WARN - I didn't find a database entry for 'Zhang2014' (section 0)
+[501] Biber.pm:133> INFO - WARNINGS: 3

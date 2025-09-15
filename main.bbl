@@ -148,7 +148,7 @@
       \field{pages}{892\bibrangedash 901}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.33395/v8i2.13370
+      \verb 10.33395/sinkron.v9i2.13370
       \endverb
     \endentry
   \enddatalist
@@ -282,10 +282,11 @@
       \field{pages}{892\bibrangedash 901}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.33395/v8i2.13370
+      \verb 10.33395/sinkron.v9i2.13370
       \endverb
     \endentry
   \enddatalist
+  \missing{Zhang2014}
   \missing{hao2024faster}
 \endrefsection
 \endinput
