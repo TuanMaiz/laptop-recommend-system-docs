@@ -38,8 +38,20 @@ Technical specification approach focus on characteristics of items, such as weig
 \begin{flushleft}
 	\textbf{Ontology design}
 \end{flushleft}
-Below is our proposed ontology-design based on RDF/OWL standard and ontology building using Protégé software. In ontology-building, four main components are involved: classes, property objects, data properties, and individuals. 
+Below is our proposed ontology-design based on RDF/OWL standard and ontology building using Protégé software. In ontology-building, four main components are involved: classes, property objects, data properties, and individuals. Figure 1 show the comprehensive ontology design with 4 main classes: Functionality, PriceRange, Product, Specification:
 
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=0.33\textwidth]{ontology-design.png}
+	\caption{Ontology design with 4 main classes}
+	\label{fig:sample}
+\end{figure}
+
+The Functionality class used to organize laptops into different functional requirements by users, this class organize laptops into 3 sub-classes: Gaming, Graphic, Office.
+
+The Product class organizes laptops into different products tier, including HighEnd laptops, MiddleEnd laptops, and Lowend laptops.
+
+The Specification is used to organize product specifications in the laptops domain. This class has the purpose of mapping functional requirements and price range of laptop with coresponding laptop.
 
 \begin{flushleft}
 	\textbf{User Preference Modelling}

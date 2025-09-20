@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.14)  16 SEP 2025 00:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.14)  20 SEP 2025 12:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -96,6 +96,26 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box51
 \enit@count@id=\count271
 \enitdp@description=\count272
+)
+(D:\software\mitek\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\software\mitek\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\software\mitek\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\software\mitek\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\software\mitek\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
 )
 (D:\software\mitek\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
@@ -402,20 +422,20 @@ Package csquotes Info: ... none found.
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -451,8 +471,30 @@ LaTeX Font Info:    ... okay on input line 19.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(D:\software\mitek\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count410
+\scratchdimen=\dimen152
+\scratchbox=\box53
+\nofMPsegments=\count411
+\nofMParguments=\count412
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count413
+\MPscratchDim=\dimen153
+\MPnumerator=\count414
+\makeMPintoPDFobject=\count415
+\everyMPtoPDFconversion=\toks24
+) (D:\software\mitek\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\software\mitek\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
+
 (D:\software\mitek\tex/latex/biblatex-apa\english-apa.lbx
 File: english-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
@@ -485,24 +527,29 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 19.
-Package biblatex Info: Reference segment=0 on input line 19.
+Package biblatex Info: Reference section=0 on input line 20.
+Package biblatex Info: Reference segment=0 on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 25.
+(Font)              <14.4> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 25.
+(Font)              <7> on input line 26.
 
 (introduction.tex) (related-work.tex [1
 
-{C:/Users/Eddiez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]) (metho
-d.tex) (result.tex)
+{C:/Users/Eddiez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+<assets/ontology-design.png, id=15, 133.24782pt x 283.81032pt>
+File: assets/ontology-design.png Graphic file (type png)
+<use assets/ontology-design.png>
+Package pdftex.def Info: assets/ontology-design.png  used on input line 45.
+(pdftex.def)             Requested size: 150.23138pt x 320.01335pt.
+ [3 <./assets/ontology-design.png>]) (method.tex) (result.tex)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 39.
+(Font)              <12> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 39.
+(Font)              <8> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 39.
- [3] [4] (main.aux)
+(Font)              <6> on input line 40.
+ [4] [5] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -512,13 +559,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11123 strings out of 474486
- 212437 string characters out of 5756415
+ 11951 strings out of 474486
+ 224663 string characters out of 5756415
  1935542 words of memory out of 5000000
- 33321 multiletter control sequences out of 15000+600000
+ 34120 multiletter control sequences out of 15000+600000
  568579 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,81p,1197b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,6n,81p,1197b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
 i1200.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ecbx1728.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
@@ -528,9 +575,9 @@ jfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Eddiez\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Eddiez\AppData\Local\MiK
 TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Eddiez\AppData\Lo
 cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
-Output written on main.pdf (4 pages, 108958 bytes).
+Output written on main.pdf (5 pages, 122086 bytes).
 PDF statistics:
- 309 PDF objects out of 1000 (max. 8388607)
+ 313 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
